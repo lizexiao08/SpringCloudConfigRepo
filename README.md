@@ -1,0 +1,2 @@
+# SpringCloudConfigRepo
+config-repo-demo
